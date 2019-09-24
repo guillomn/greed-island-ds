@@ -1,0 +1,12 @@
+*.JPG
+*.jpg
+*.jpeg
+*.png
+*.webm
+*.save
+*/saves/*
+*.rpyc
+*.rpyb
+*errors.txt
+*log.txt
+*traceback.txt
