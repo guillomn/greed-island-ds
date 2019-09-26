@@ -31,6 +31,9 @@ init python:
     dexterity = 0
     nen = 0
 
+    #locations
+    locations = []
+
     #training text logic
     train_str_txt = 0
     train_dex_txt = 0

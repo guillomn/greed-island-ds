@@ -45,6 +45,10 @@ label masadora:
     menu:
         "Return":
             jump game_menu
+        "Show current location":
+            $ locations = ["Masadora", "Soufrabi", "Shiso"]
+
+            "Current Location = [locations[0]]"
 
 label soufrabi:
 
