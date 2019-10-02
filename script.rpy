@@ -47,6 +47,12 @@ init python:
     item_name = ""
     items = ""
 
+    #sets the colors of the textbuttons for the map screen
+    style.map = Style(style.button_text)
+    style.map_button_text.color = "#000000"
+    style.map_button_text.hover_color = "#666666"
+    style.map_button_text.selected_color = "#323232"
+
 ###### The game starts here ######
 
 label start:
