@@ -69,6 +69,8 @@ menu game_menu:
         jump training
     "Bank":
         jump bank
+    "Missions":
+        jump test
     "Exit Greed Island":
         jump badend
 
